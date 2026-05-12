@@ -6,6 +6,10 @@ This project analyzes customer churn behavior using SQL to identify key drivers 
 
 The goal is to translate raw customer data into actionable business insights for improving retention.
 
+## 📊 Dashboard Preview
+
+<img width="1650" height="1275" alt="Telco Customer Churn Dataset Main Copy" src="https://github.com/user-attachments/assets/75ea7cd8-f0ba-469c-9d36-6dcdb332455b" />
+
 ---
 
 ## 📊 Key Insights
